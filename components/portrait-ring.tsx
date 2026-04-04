@@ -18,7 +18,8 @@ export function PortraitRing({ size = 280, imageUrl = "/images/home-portrait.jpe
           alt="Profile portrait"
           width={d}
           height={d}
-          className="block aspect-square object-cover scale-100 group-hover:scale-105 transition-transform duration-500"
+          className="block aspect-square object-cover"
+          style={{ objectPosition: "center 20%" }}
           crossOrigin="anonymous"
         />
       </div>
