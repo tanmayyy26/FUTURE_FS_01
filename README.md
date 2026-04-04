@@ -2,7 +2,7 @@
 
 A modern, full-stack portfolio built with Next.js, React, and Node.js. Complete internship task implementation.
 
-**Live Demo**: [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+**Live Demo**: [https://tportfolio-dusky.vercel.app/](https://tportfolio-dusky.vercel.app/)
 
 ---
 
