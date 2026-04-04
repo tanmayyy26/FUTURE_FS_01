@@ -96,7 +96,7 @@ export function ContactSection() {
       </form>
 
       <div ref={infoRef} suppressHydrationWarning className="grid gap-4 content-start">
-        <InfoItem icon={<Phone className="size-5" />} title="Phone" value="8446250270" />
+        <InfoItem icon={<Phone className="size-5" />} title="Phone" value="8436250270" />
         <InfoItem icon={<Mail className="size-5" />} title="Email" value="2work2603@gmail.com" />
         <InfoItem icon={<MapPin className="size-5" />} title="Address" value="Nagpur, Maharashtra, 441111" />
       </div>
