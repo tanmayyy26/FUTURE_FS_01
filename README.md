@@ -2,8 +2,6 @@
 
 A modern, full-stack portfolio built with Next.js, React, and Node.js. Complete internship task implementation.
 
-**Live Demo**: [https://tportfolio-dusky.vercel.app/](https://tportfolio-dusky.vercel.app/)
-
 ---
 
 ## ✅ Task Completion Status
@@ -382,6 +380,8 @@ Portfolio meets all requirements:
 - ✅ Deployment ready
 - ✅ GitHub public
 - ✅ Live URL ready
+
+**Live Demo**: [https://tportfolio-dusky.vercel.app/](https://tportfolio-dusky.vercel.app/)
 
 **Next Steps:**
 1. Configure email (Gmail App Password)
